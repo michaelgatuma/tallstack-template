@@ -1,5 +1,6 @@
 #### Framework: Laravel v8.12.3 (PHP v7.4.10)
 
+- [Jetstream](https://jetstream.laravel.com/1.x/introduction.html)
 - [Livewire](https://github.com/livewire/livewire)
 - [Tailwindcss](https://tailwindcss.com/docs)
 - [Tallforms](https://github.com/tanthammar/tall-forms)
