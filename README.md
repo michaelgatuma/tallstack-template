@@ -1,4 +1,4 @@
-#### Framework: Laravel 8
+#### Framework: Laravel v8.12.3 (PHP v7.4.10)
 
 - [Livewire](https://github.com/livewire/livewire)
 - [Tailwindcss](https://tailwindcss.com/docs)
