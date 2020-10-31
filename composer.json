@@ -12,12 +12,17 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
+        "laravel-views/laravel-views": "^2.0",
         "laravel/framework": "^8.12",
-        "laravel/tinker": "^2.5"
+        "laravel/tinker": "^2.5",
+        "livewire/livewire": "^2.3",
+        "tanthammar/tall-forms": "^5.0"
     },
     "require-dev": {
+        "andrey-helldar/laravel-lang-publisher": "^6.1",
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
+        "laravel-shift/blueprint": "^1.19",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
         "phpunit/phpunit": "^9.3.3"
