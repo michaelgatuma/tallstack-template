@@ -7,6 +7,7 @@
 - [Blueprint](https://github.com/laravel-shift/blueprint)
 - [Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher)
 - [https://github.com/Gustavinho/laravel-views](https://github.com/Gustavinho/laravel-views)
+- [https://github.com/krlove/eloquent-model-generator](https://github.com/krlove/eloquent-model-generator)
 
 --------
 #### Probably important stuff
