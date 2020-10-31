@@ -22,7 +22,7 @@
 - [https://github.com/jeffochoa/livewire-portals](https://github.com/jeffochoa/livewire-portals)
 
 #### Resources
-[https://tailwindcomponents.com/cheatsheet/](https://tailwindcomponents.com/cheatsheet)
+- [https://tailwindcomponents.com/cheatsheet/](https://tailwindcomponents.com/cheatsheet)
 - [https://github.com/spatie](https://github.com/spatie)
 - [https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac](https://gist.github.com/imliam/3709ceafb0bd60ea8026b5c936f591ac)
 - [https://www.cloudways.com/blog/best-laravel-packages/](https://www.cloudways.com/blog/best-laravel-packages/)
