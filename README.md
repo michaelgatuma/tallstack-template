@@ -7,8 +7,9 @@
 - [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate)
 - [Blueprint](https://github.com/laravel-shift/blueprint)
 - [Lang Publisher](https://github.com/andrey-helldar/laravel-lang-publisher)
-- [https://github.com/Gustavinho/laravel-views](https://github.com/Gustavinho/laravel-views)
-- [https://github.com/krlove/eloquent-model-generator](https://github.com/krlove/eloquent-model-generator)
+- [laravel-views](https://github.com/Gustavinho/laravel-views)
+- [krlove/eloquent-model-generator](https://github.com/krlove/eloquent-model-generator)
+- [Laravel Permission](https://github.com/spatie/laravel-permission)
 
 --------
 #### Probably important stuff
